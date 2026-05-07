@@ -1,6 +1,6 @@
 # 🛒 E-Commerce Sales Analysis — 2018
 
-![Tools](your_architecture_image.png)
+![Tools](architecture_image.png)
 
 ## 📌 Business Problem
 An e-commerce company wants to understand its 2018 sales performance, 
