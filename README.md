@@ -2,25 +2,22 @@
 
 ![Tools](architecture_image.png)
 
-## 📌 Business Problem
+##  Business Problem
 An e-commerce company wants to understand its 2018 sales performance, 
 customer behavior, and product trends to make smarter business decisions 
 around marketing, inventory, and payment strategy.
 
-## 🎯 Goal
+##  Goal
 Analyze 51,289 transactions to find what drives revenue, who the best 
 customers are, and where the business should focus next.
 
-## 🛠️ Tools Used
+##  Tools Used
 - **Python** — Data cleaning, EDA, Visualizations
 - **MySQL** — Business queries, Window functions
 - **Power BI** — Interactive 2-page dashboard
 
-## 📊 Dashboard Preview
-![Dashboard Page 1](dashboard_page1.png)
-![Dashboard Page 2](dashboard_page2.png)
 
-## 🔑 Key Insights
+##  Key Insights
 - Fashion drives **55% of total revenue** (₹4.3M out of ₹8M)
 - **Credit card** accounts for 74% of all sales
 - **November** is the peak sales month — likely due to festive season
@@ -28,7 +25,7 @@ customers are, and where the business should focus next.
 - **Members** account for 96% of revenue vs Guests 4%
 - Electronics is the weakest category despite high product count
 
-## 💡 Business Recommendations
+##  Business Recommendations
 1. **Double down on Fashion** — highest revenue and profit category. 
    Increase inventory and run targeted campaigns here first.
 
@@ -48,7 +45,7 @@ customers are, and where the business should focus next.
 6. **Investigate Electronics** — lowest revenue category. 
    Either improve product range or reduce inventory investment here.
 
-## 📁 Files
+##  Files
 | File | Description |
 |------|-------------|
 | `ecommerce_analysis.ipynb` | Python EDA and visualizations |
@@ -56,6 +53,6 @@ customers are, and where the business should focus next.
 | `ecommerce_dashboard.pbix` | Power BI dashboard |
 | `e_commerce.csv` | Raw dataset |
 
-## 📬 Connect
+##  Connect
 **Rahul Rawat** — Data Analyst  
 [LinkedIn](https://linkedin.com/in/rahul-rawat-170412263) 
