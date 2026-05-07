@@ -17,8 +17,8 @@ customers are, and where the business should focus next.
 - **Power BI** — Interactive 2-page dashboard
 
 ## 📊 Dashboard Preview
-![Dashboard Page 1](dashboard_page1.png)
-![Dashboard Page 2](dashboard_page2.png)
+![Dashboard Page 1](Dashboard_page1.png)
+![Dashboard Page 2](Dashboard_page2.png)
 
 ## 🔑 Key Insights
 - Fashion drives **55% of total revenue** (₹4.3M out of ₹8M)
