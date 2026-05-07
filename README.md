@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Sales Analysis — 2018
+#  E-Commerce Sales Analysis — 2018
 
 ![Tools](architecture_image.png)
 
